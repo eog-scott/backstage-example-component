@@ -4,7 +4,7 @@ metadata:
   name: backstage-example-componentv2
   annotations:
     github.com/project-slug: sctluan/backstage-example-component
-    circleci.com/project-slug: github/spotify/pump-station
+    circleci.com/project-slug: github.com/spotify/pump-station
 spec:
   type: other
   lifecycle: unknown
